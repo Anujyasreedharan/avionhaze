@@ -1,0 +1,305 @@
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .common-padding {
+        padding: 0 30px !important;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .connect-us {
+        width: 100%;
+    }
+
+    .green-box img {
+        width: 100%;
+        top: -126px !important;
+    }
+
+    .services .heading__title {
+        line-height: normal;
+    }
+
+    .services-layout2 .service-item {
+        background-color: #c6c6c61f;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .green-cnt {
+        height: auto;
+        padding: 10px;
+    }
+
+    .green-cnt p {
+        opacity: 1;
+        transition: opacity 0.3s;
+    }
+
+    .cntt-sty svg {
+        margin-bottom: 0 !important;
+    }
+
+    .green-box h2 {
+        font-size: 25px;
+        margin: 20px 0 0 0;
+    }
+
+    div#story {
+        width: 100%;
+        padding-left: 0 !important;
+    }
+
+    .cntt-sty h3 {
+        font-size: 17px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    button.btn.btn-primary.Enquire-now {
+        margin-top: 10px;
+    }
+
+    .cntt-sty {
+        padding: 16px 0;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        align-content: flex-start;
+    }
+
+    .expanded-glob {
+        padding-bottom: 70px;
+        padding-top: 75px;
+    }
+
+    div#story .owl-dots {
+        position: absolute;
+        bottom: 70px;
+        right: 0;
+    }
+
+    .our-service-container {
+        padding-left: 10px;
+    }
+
+    .connect-h3 h3::after {
+        width: 100%;
+    }
+
+    .sucess-sory svg {
+        width: 100% !important;
+        margin-bottom: -87px;
+    }
+
+    .map img {
+        width: 100%;
+    }
+
+    .story-slider {
+        padding: 15px;
+    }
+
+    .topbar {
+        display: none;
+    }
+
+    section.abt {
+        padding: 0;
+    }
+
+    .slider-cnt1 {
+        top: 0;
+        padding: 0 15px;
+    }
+
+    img.logo-img {
+        width: 100px;
+        height: 51px;
+        object-fit: contain;
+    }
+
+    a.nav-link {
+        font-size: 14px;
+        margin: 6px 0;
+    }
+
+    ul.navbar-nav {
+        display: flex;
+        align-items: flex-start;
+        border-top: 1px solid #ffffff8f;
+        margin-top: 20px;
+    }
+
+    .banner-cnt h1 {
+        font-size: 25px;
+    }
+
+    div#banner .owl-nav {
+        position: absolute;
+        right: 9px;
+        bottom: 22%;
+        top: unset;
+        left: 9px;
+        justify-content: flex-start;
+    }
+
+    div#banner .owl-nav button {
+        font-size: 35px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        margin-right: 5px;
+    }
+
+    .banner-cnt p {
+        line-height: normal;
+        margin-top: 60px;
+    }
+
+    .connect-h3 h3 {
+        font-size: 18px;
+    }
+
+    section.abt h3 {
+        font-size: 27px;
+        margin-bottom: 0px;
+        line-height: normal;
+    }
+
+    .inner-text-counter {
+        border-right: 0;
+        margin-bottom: 15px;
+    }
+
+    h3.number {
+        font-size: 45px !important;
+    }
+
+    .counter span {
+        font-size: 40px;
+    }
+
+    .our-service h3 {
+        font-size: 27px;
+    }
+
+    .Specialities h3 {
+        font-size: 27px;
+    }
+
+    .our-service {
+        padding-bottom: 25px;
+    }
+
+    .row.copy-right p {
+        font-size: 9px;
+        padding-top: 0px;
+        flex-wrap: wrap;
+    }
+
+    footer {
+        padding: 40px 0 10px 0;
+    }
+
+    .address-1 a {
+        font-size: 13px;
+    }
+
+    .footer2 {
+        padding: 0;
+    }
+
+    .map-ftr {
+        padding-left: 0;
+    }
+
+    .contact_icon {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+
+    .contact_icon1 {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+
+    .floating_btn {
+        position: fixed;
+        bottom: 40px;
+        left: 14px;
+        width: 50px;
+        height: 50px;
+    }
+
+    .floating_btn1 {
+        position: fixed;
+        bottom: 40px;
+        right: 14px;
+        width: 50px;
+        height: 50px;
+    }
+
+}
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {}
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .topbar {
+        display: none;
+    }
+
+    h3.number {
+        font-size: 45px !important;
+    }
+
+    .counter span {
+        font-size: 28px;
+    }
+
+    .common-padding {
+        width: 100%;
+        padding: 0 30px !important;
+    }
+
+    .green-box img {
+        position: absolute;
+        top: -149px;
+        width: 254px;
+    }
+
+    .green-box h2 {
+        font-size: 40px;
+    }
+
+    .yellow-box img {
+        top: -120px;
+    }
+
+    div#story {
+        width: 100%;
+        padding-left: 100px;
+    }
+
+    .our-service-container {
+        padding: 0 15px;
+    }
+}
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {}
+
+/* // X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {}
